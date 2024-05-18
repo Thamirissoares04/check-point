@@ -1,0 +1,50 @@
+.caixa {
+    background-color: #e21919;
+    border: 1px solid #061b07;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-decoration-break: clone;
+}
+
+.caixa h2 {
+    color: #333;
+}
+
+.caixa p {
+    color: #666;
+}
+div.caixa{ 
+    width:300px; height:200px; border:solid #c0c0c0 1px; 
+}
+.caixa {
+    background-color: #f0f0f0;
+    border: 1px solid #340edb;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.caixa h3 {
+    color: #333;
+}
+
+.caixa p {
+    color: #666;
+}
+.caixa {
+    background-color: #f0f0f0;
+    border: 1px solid #db0e41;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.caixa h2 {
+    color: #333;
+}
+
+.caixa p {
+    color: #666;
+}
